@@ -3,3 +3,4 @@ this is second line of test repository
 this is test on pragraph 
 logo alingnment is centered
 logo alingment centered
+solving the issue
