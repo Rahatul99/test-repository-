@@ -2,3 +2,4 @@ dsjhidfhs vashdvjk
 this is second line of test repository
 this is test on pragraph 
 logo alingnment is centered
+logo alingment centered
